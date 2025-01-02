@@ -1,8 +1,36 @@
-# React + Vite
+# Finance Dashboard React Pro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern finance dashboard built with React.js, showcasing sales insights, customer satisfaction metrics, and more.
 
-Currently, two official plugins are available:
+![Dashboard Screenshot](./Screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## Overview
+The Finance Dashboard is designed to provide a clean and user-friendly interface for monitoring key financial metrics, tracking sales, and gaining insights into customer behavior.
+
+## Features
+- **Sales Insights**: Track total sales, orders, and new customers.
+- **Customer Satisfaction**: Visualize customer satisfaction trends.
+- **Revenue Analysis**: Compare online and offline sales.
+- **Top Products**: See the most popular products.
+- **Geographic Insights**: Map sales by country.
+- **Responsive Design**: Fully responsive and works across all devices.
+
+## Demo
+Check out the live demo: [Finance Dashboard](https://finance-dashboard-react-pro.vercel.app/)
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ARMANANS1218/Finance-Dashboard-react-pro.git
